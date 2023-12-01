@@ -6,7 +6,11 @@ body {
 
 h1 {
   color:#FAEBD7;
-  font-size: 48px; 
+  font-size: 48px;
+}
+
+h2 {
+  color:#FAEBD7;
 }
 
 li {
@@ -23,7 +27,7 @@ li {
 
 .exp-header {
   color:#FAEBD7;
-  margin-left: 20px
+  margin-left: 20px;
   
 }
 
